@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Le mini-microscope</title>
+    <link rel="stylesheet" href="Affichage du site.css">
+  </head>
+  <body>
+    <header>
+      <h1>LE MICRO-MICROSCOPE</h1>
+      <h3>Par "Futura Fields"</h3>
+      <img class="Logo1" src="Images/Logo version 2 futura field.png" alt="Logo Futura fields">
+      <img class="Logo2" src="Images/Louis massignon logo.png" alt="Logo Louis Massignon">
+    </header>
+    <nav>
+
+    </nav>
+    <section>
+        <article>
+          <p>Le Micro-Microscope est un bijou de technologie, un nouveau microscope portable qui permet d'observer dans toutes les situations possibles.
+              En créant cet item, FuturaFields a, après beaucoup d'essais, réussi à créer un microscope qui:
+              <ul>
+              <li>Mesure moins de <strong>15 cm</strong></li>
+              <li>pèse <strong>352g</strong> (sans l'objectif)</li>
+              <li>Permet d'observer à l'aide d'un grossissment dépassant les <strong>x150</strong></li>
+              <li>Resiste aux conditions extrêmes
+                <ul><strong>1 </strong>entre 146 degrès celcius et -40 degrès celcius </ul>
+                <ul>
+                    <strong>2 </strong>Conçu majoritairement, en fibre de carbonne, il peut être posé dans votre sac à dos sans que vous ayez à vous soucier de quoi que ce soit
+                </ul>
+              </li>
+              <li>Objectif interchangeable</li>
+              <li>Premier microscope portable à bénéficier d'une petite vice</li>
+              </ul>
+
+
+
+          </p>
+
+        </article>
+        <aside>
+          <a class="Sketch" href="Fichiers/Modélisation du microscope.skp"> Cliquer ici pour télécharger la modélisation !</a>
+          <img class="photo" src="Images/Photo de la modélisation du microscope.png" alt="Photo de la modélisation">
+          <p class="Annonceduprix">Destiné à tout amateur de sciences, ce microscope permettra d'éviter tous moments d'ennui,</p>
+          <h5><strong>150$ en basique et 175$ avec 2 oculaires</strong></h5>
+        </aside>
+        <aside>
+          <h4>Feedback de Braminita</h4>
+          <img class="brahmine" src="Images/Cathrine feedback.jpg" alt="Photo de brahmine">
+          <p class="feedback">En achetant, ce produit j'étais soucieux, un microscope transportable possédant d'aussi bonnes capacités ne peut pas coûter 150$, pourtant, en tant que médecin, je peux vous garantir que ce genre de produit est de qualité, grace à celui-ci je me suis diverti pendant les matinées d'automne à attendre dans le metro, </p>
+          <span>Merci à Futura Fields !</span>
+
+        </aside>
+
+    </section>
+    <footer>
+
+    </footer>
+  </body>
+</html>
